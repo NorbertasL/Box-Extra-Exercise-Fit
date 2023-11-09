@@ -8,3 +8,23 @@ h1, h2, h3, p {
 }
 
 /* ADD YOUR CSS BELOW THIS COMMENT... DONT CHANGE ANYTHING ABOVE THIS LINE! */
+
+
+h1 {
+    background-color: #999;
+    padding-left: 10px;
+    padding-top: 5px;
+    margin-bottom: 20px;
+    
+}
+h2 {
+    border-bottom: 1px solid;
+    margin-bottom: 20px;
+}
+h1, h2, h3{
+    padding-bottom: 5px;
+    font-weight: bold;
+}
+h2, h3 {
+    padding-top: 15px;
+}
